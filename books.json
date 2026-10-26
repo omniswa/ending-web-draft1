@@ -5,7 +5,7 @@
     "author": "Eleanor Whitfield",
     "added": "2026-10-01",
     "cover": "https://picsum.photos/seed/book-cartographers-daughter/600/800",
-    "zip": "https://omniswa.github.io/ending-web-draft1/books/cartographers-daughter.zip"
+    "zip": "books/cartographers-daughter.zip"
   },
   {
     "id": "letters-to-a-young-botanist",
@@ -13,7 +13,7 @@
     "author": "H. T. Marwick",
     "added": "2026-10-01",
     "cover": "https://picsum.photos/seed/book-letters-botanist/600/800",
-    "zip": "https://omniswa.github.io/ending-web-draft1/books/letters-to-a-young-botanist.zip"
+    "zip": "books/letters-to-a-young-botanist.zip"
   },
   {
     "id": "of-silent-things",
@@ -21,7 +21,7 @@
     "author": "Yuki Tawara",
     "added": "2026-10-01",
     "cover": "https://picsum.photos/seed/book-silent-things/600/800",
-    "zip": "https://omniswa.github.io/ending-web-draft1/books/of-silent-things.zip"
+    "zip": "books/of-silent-things.zip"
   },
   {
     "id": "year-of-long-afternoons",
@@ -29,7 +29,7 @@
     "author": "Marco Bianchi",
     "added": "2026-10-01",
     "cover": "https://picsum.photos/seed/book-long-afternoons/600/800",
-    "zip": "https://omniswa.github.io/ending-web-draft1/books/year-of-long-afternoons.zip"
+    "zip": "books/year-of-long-afternoons.zip"
   },
   {
     "id": "anatomy-of-quiet-room",
@@ -37,7 +37,7 @@
     "author": "Iris Cole",
     "added": "2026-10-01",
     "cover": "https://picsum.photos/seed/book-quiet-room/600/800",
-    "zip": "https://omniswa.github.io/ending-web-draft1/books/anatomy-of-quiet-room.zip"
+    "zip": "books/anatomy-of-quiet-room.zip"
   },
   {
     "id": "last-lighthouse-keeper",
@@ -45,7 +45,7 @@
     "author": "A. F. Pemberton",
     "added": "2026-10-01",
     "cover": "https://picsum.photos/seed/book-lighthouse-keeper/600/800",
-    "zip": "https://omniswa.github.io/ending-web-draft1/books/last-lighthouse-keeper.zip"
+    "zip": "books/last-lighthouse-keeper.zip"
   },
   {
     "id": "field-notes-from-the-edge",
@@ -53,7 +53,7 @@
     "author": "Tobias Lyle",
     "added": "2026-10-01",
     "cover": "https://picsum.photos/seed/book-field-notes-edge/600/800",
-    "zip": "https://omniswa.github.io/ending-web-draft1/books/field-notes-from-the-edge.zip"
+    "zip": "books/field-notes-from-the-edge.zip"
   },
   {
     "id": "glasshouse-years",
@@ -61,7 +61,7 @@
     "author": "Petra Holm",
     "added": "2026-10-01",
     "cover": "https://picsum.photos/seed/book-glasshouse-years/600/800",
-    "zip": "https://omniswa.github.io/ending-web-draft1/books/glasshouse-years.zip"
+    "zip": "books/glasshouse-years.zip"
   },
   {
     "id": "slow-waters",
@@ -69,7 +69,7 @@
     "author": "Nadia Okafor",
     "added": "2026-10-01",
     "cover": "https://picsum.photos/seed/book-slow-water/600/800",
-    "zip": "https://omniswa.github.io/ending-web-draft1/books/slow-waters.zip"
+    "zip": "books/slow-waters.zip"
   },
   {
     "id": "pocket-book-of-hours",
@@ -77,6 +77,6 @@
     "author": "Anonymous",
     "added": "2026-10-01",
     "cover": "https://picsum.photos/seed/book-pocket-hours/600/800",
-    "zip": "https://omniswa.github.io/ending-web-draft1/books/pocket-book-of-hours.zip"
+    "zip": "books/pocket-book-of-hours.zip"
   }
 ]
