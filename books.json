@@ -86,5 +86,13 @@
     "added": "October 30, 2026",
     "cover": "https://picsum.photos/seed/book-short-fiction/600/800",
     "zip": "books/joseph-conrad_short-fiction.epub"
+  },
+  {
+    "id": 12,
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "added": "October 30, 2026",
+    "cover": "https://picsum.photos/seed/book-alice-in-wonderland/600/800",
+    "zip": "books/  alices-adventures-in-wonderland.epub.epub"
   }
 ]
