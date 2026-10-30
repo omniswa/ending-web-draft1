@@ -78,5 +78,13 @@
     "added": "2026-10-01",
     "cover": "https://picsum.photos/seed/book-pocket-hours/600/800",
     "zip": "books/pocket-book-of-hours.zip"
+  },
+  {
+    "id": 11,
+    "title": "Short Fiction",
+    "author": "Anonymous",
+    "added": "October 30, 2026",
+    "cover": "https://picsum.photos/seed/book-short-fiction/600/800",
+    "zip": "books/joseph-conrad_short-fiction.epub"
   }
 ]
